@@ -46,7 +46,7 @@ The workflow includes:
 4. Chat with Lexica by sending:
    - Text messages to receive CEFR-based learning tasks.
    - Images for English descriptions.
-   - Voice notes for potential future extension (currently under development).
+   - Voice notes.
 
 ---
 
