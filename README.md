@@ -27,7 +27,7 @@ The workflow includes:
 |------------------------|-----------------------------------------------------------------------------|
 | Telegram Trigger        | Listens for incoming Telegram messages (text, photo, audio).               |
 | Switch                  | Routes input based on content type (Text, Image, Audio).                   |
-| AI Agent (Langchain)    | Handles text-based conversation using CEFR-aligned logic and personality.  |
+| AI Agent                | Handles text-based conversation using CEFR-aligned logic and personality.  |
 | Google Gemini Chat Model| Processes AI responses via Gemini 2.0 Flash model.                         |
 | Check Prompt            | Extracts image caption or assigns default prompt.                          |
 | Call Gemini API         | Sends image and prompt to Gemini for description.                          |
